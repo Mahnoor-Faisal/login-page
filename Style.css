@@ -1,0 +1,55 @@
+
+html{
+background-image: url(./bg3.jpg) ;
+width:100%;}
+
+form{
+    /* background-color: rgb(104, 97, 97); */
+margin-top: 10%;
+background: linear-gradient(to right, rgb(234, 236, 238), rgb(188, 203, 252), rgb(153, 155, 233));
+/* background-color: aliceblue; */
+margin-bottom: 10%;
+margin-left: 35%;
+margin-right: 35%;
+padding: 05% 0% 05% 0% ;
+border-radius: 2%;
+
+
+}
+input{
+    margin-bottom: 1vw;
+height: 2vw;
+}
+
+span{
+    display: flex;
+    margin-left: 11vw;
+    /* margin-top: 1vw; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.checkbox{
+    /* height: vw; */
+    margin-top: 0.9vw;
+    /* color: red; */
+    /* size: 30vw; */
+}
+.sign_in{
+    margin-bottom: -1vw;
+    margin-top: 1vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sign{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 1vw;
+margin-bottom: 2vw;
+font-size: 1vw;
+}
+button{
+    padding: 1vw 1.2vw 0vw  1.2vw;
+    border-radius: 1vw;
+    font-family:sans-serif;
+}
+button:hover{
+    color:white;
+    background-color: rgb(75, 79, 97);
+}
